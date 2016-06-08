@@ -1,6 +1,9 @@
 # syntouchcontact
 This package publish the contact points and the contact forces using BioTac
 
+Dependence: [syntouchpublisher](https://github.com/MiaoLi/syntouchpublisher)
+
+To run: roslaunch syntouchcontact syntouchcontact.launch
 
 ## Contact points estimation
 ### Coordinates
