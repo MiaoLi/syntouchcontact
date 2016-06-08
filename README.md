@@ -5,9 +5,13 @@ This package publish the contact points and the contact forces using BioTac
 ## Contact points estimation
 ### Coordinates
 y^
+
  |
+
  |
+
  |
+ 
 z@-------->x
 
 ### approach
