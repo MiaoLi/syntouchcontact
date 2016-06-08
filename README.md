@@ -4,7 +4,7 @@ This package publish the contact points and the contact forces using BioTac
 
 ## Contact points estimation
 ### Coordinates
-![force calibration](/misc/forcecalibration.png)
+<img src="/misc/forcecalibration.png" alt="alt text" width="400" height="200">
 
 ### approach
 * We use the weighted average to estimate the contact points and the accuracy is around 3mm
